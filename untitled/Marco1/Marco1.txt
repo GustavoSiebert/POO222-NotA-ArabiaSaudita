@@ -1,0 +1,18 @@
+Equipe Guilherme Prochnow Meyer, Gustavo Siebert Emmendoerfer, Cauã de Miranda Scarabelotti
+
+SELEÇÃO: Arabia Saudita 
+
+GOLEIROS: Muhammed Al Owais (Al Hilal), Mohammed Al Yammi (sem clube) e Nawaf Al-Aqeedi (Al Nassr)
+DEFENSORES: Sultan Al-Ghanam (Al Nassr), Mohammed Al-Buraik (Al Hilal), Abdulelah Al-Amri (Al Nassr), Ali Al-Bulayhi (Al Hilal), Abdullah Mado (Al Nassr), Hassan Tambakti (Al-Shabab), Saud Abdulhamid (Al Hilal) e Yasser Al-Shahrani (Al Hilal)
+MEIO-CAMPISTAS: Salman Al-Faraj (Al Hilal), Salem Al-Dawsari (Al Hilal), Abdulellah Al-Malki (Al Hilal), Mohamed Kanoo (sem clube), Abdullah Al-Aboud (Al-Ittihad Jeddah), Sami Al-Najei (Al Nassr), Hattan Bahbri (Al-Shabab), Nasser Al-Dawsari (Al Hilal), Ali Al-Hassan (Al Nassr), Riad Shrahili (Abha Club) e Abdullah Otayf (Al Hilal)
+ATACANTES: Saleh Al-Shehri (Al Hilal), Firas Al-Braikan (Al Fateh), Haitham Asiri (Al-Ahli) e Nawaf Al Abed (Al Shabab)
+
+TECNICO:Hervé Jean Marie Roger Renard
+Comissão técnica: Turki Al Sheikh, Abdulellah Al-Najei, Dabir Wasim Halabi
+Dirigentes: Salem Abdulhamid, Nabeel Humam Naser
+
+Conhecimentos que devemos aprender 
+- Aprender como gerar um arquivo Json dentro do java
+- Aprender como como apresentar imagens dentro de um app 
+- Aprender como armazenar informação dentro de um json/xml
+- Aprimorar conhencimentos de java swing 
