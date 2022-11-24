@@ -1,0 +1,275 @@
+{
+   "players":[
+      {
+         "number":1,
+         "nickname":"Muhammed Al Owais",
+         "height":1.76,
+         "weight":72.2,
+         "position":"Goleiro",
+         "club":"(Al Hilal)",
+         "name":"Muhammed Al Owais",
+         "age":20
+      },
+      {
+         "number":2,
+         "nickname":"Mohammed Al Yammi",
+         "height":1.88,
+         "weight":74.3,
+         "position":"Goleiro",
+         "club":"(Al Hilal)",
+         "name":"Mohammed Al Yammi",
+         "age":21
+      },
+      {
+         "number":3,
+         "nickname":"Nawaf Al-Aqeedi",
+         "height":1.87,
+         "weight":90.5,
+         "position":"Goleiro",
+         "club":"Sem Clube",
+         "name":"Nawaf Al-Aqeedi",
+         "age":21
+      },
+      {
+         "number":4,
+         "nickname":"Sultan Al-Ghanam",
+         "height":1.84,
+         "weight":70.4,
+         "position":"Lateral Direito",
+         "club":"(Al Hilal)",
+         "name":"Sultan Al-Ghanam",
+         "age":21
+      },
+      {
+         "number":5,
+         "nickname":"Abdulelah Al-Amri",
+         "height":1.82,
+         "weight":75.0,
+         "position":"Lateral Direito",
+         "club":"(Al Hilal)",
+         "name":"Abdulelah Al-Amri",
+         "age":21
+      },
+      {
+         "number":6,
+         "nickname":"Ali Al-Bulayhi",
+         "height":1.9,
+         "weight":90.3,
+         "position":"Lateral Direito",
+         "club":"(Al Hilal)",
+         "name":"Ali Al-Bulayhi",
+         "age":21
+      },
+      {
+         "number":7,
+         "nickname":"Abdullah Mado",
+         "height":1.78,
+         "weight":78.4,
+         "position":"Lateral Esquerdo",
+         "club":"(Al Bilal)",
+         "name":"Abdullah Mado",
+         "age":21
+      },
+      {
+         "number":8,
+         "nickname":"Hassan Tambakti",
+         "height":1.76,
+         "weight":83.9,
+         "position":"Lateral Esquerdo",
+         "club":"(Al Hilal)",
+         "name":"Hassan Tambakti",
+         "age":21
+      },
+      {
+         "number":9,
+         "nickname":"Saud Abdulhamid",
+         "height":1.9,
+         "weight":86.0,
+         "position":"Lateral Esquerdo",
+         "club":"(Al Nassr)",
+         "name":"Saud Abdulhamid",
+         "age":21
+      },
+      {
+         "number":10,
+         "nickname":"Yasser Al-Shahrani",
+         "height":1.85,
+         "weight":60.3,
+         "position":"Zagueiro",
+         "club":"(Al Hilal)",
+         "name":"Yasser Al-Shahrani",
+         "age":21
+      },
+      {
+         "number":11,
+         "nickname":"Salem Al-Dawsari",
+         "height":1.7,
+         "weight":80.2,
+         "position":"Zagueiro",
+         "club":"(Al Hilal)",
+         "name":"Salem Al-Dawsari",
+         "age":21
+      },
+      {
+         "number":12,
+         "nickname":"Abdulellah Al-Malki",
+         "height":1.7,
+         "weight":69.6,
+         "position":"Zagueiro",
+         "club":"(Al Nassr)",
+         "name":"Abdulellah Al-Malki",
+         "age":21
+      },
+      {
+         "number":14,
+         "nickname":"Mohamed Kanoo",
+         "height":1.7,
+         "weight":96.0,
+         "position":"Zagueiro",
+         "club":"(Al Hilal)",
+         "name":"Mohamed Kanoo",
+         "age":21
+      },
+      {
+         "number":15,
+         "nickname":"Abdullah Al-Aboud",
+         "height":1.79,
+         "weight":87.4,
+         "position":"Volante",
+         "club":"(Al Hilal)",
+         "name":"Abdullah Al-Aboud",
+         "age":21
+      },
+      {
+         "number":16,
+         "nickname":"Sami Al-Najei",
+         "height":1.69,
+         "weight":69.69,
+         "position":"Volante",
+         "club":"(Al Nassr)",
+         "name":"Sami Al-Najei",
+         "age":21
+      },
+      {
+         "number":17,
+         "nickname":"Hattan Bahbri",
+         "height":1.86,
+         "weight":95.0,
+         "position":"Meia",
+         "club":"(Al Nassr)",
+         "name":"Hattan Bahbri",
+         "age":21
+      },
+      {
+         "number":18,
+         "nickname":"Nasser Al-Dawsari",
+         "height":1.87,
+         "weight":88.1,
+         "position":"Meia",
+         "club":"(Al-Ittihad Jeddah)",
+         "name":"Nasser Al-Dawsari",
+         "age":21
+      },
+      {
+         "number":19,
+         "nickname":"Ali Al-Hassan",
+         "height":1.85,
+         "weight":99.3,
+         "position":"Meia",
+         "club":"(Al Hilal)",
+         "name":"Ali Al-Hassan",
+         "age":21
+      },
+      {
+         "number":20,
+         "nickname":"Riad Shrahili",
+         "height":1.85,
+         "weight":100.3,
+         "position":"Meia",
+         "club":"(Al-Ittihad Jeddah)",
+         "name":"Riad Shrahili",
+         "age":21
+      },
+      {
+         "number":21,
+         "nickname":"Abdullah Otayf",
+         "height":1.7,
+         "weight":67.4,
+         "position":"Meia",
+         "club":"(Al-Ahli)",
+         "name":"Abdullah Otayf",
+         "age":21
+      },
+      {
+         "number":22,
+         "nickname":"Saleh Al-Shehri",
+         "height":1.8,
+         "weight":83.0,
+         "position":"Atacante",
+         "club":"(Al Nassr)",
+         "name":"Saleh Al-Shehri",
+         "age":21
+      },
+      {
+         "number":23,
+         "nickname":"Firas Al-Braikan",
+         "height":16.3,
+         "weight":71.2,
+         "position":"Atacante",
+         "club":"(Al Nassr)",
+         "name":"Firas Al-Braikan",
+         "age":21
+      },
+      {
+         "number":24,
+         "nickname":"Haitham Asiri",
+         "height":1.8,
+         "weight":78.12,
+         "position":"Atacante",
+         "club":"(Al Nassr)",
+         "name":"Haitham Asiri",
+         "age":21
+      },
+      {
+         "number":25,
+         "nickname":"Nawaf Al Abed",
+         "height":1.76,
+         "weight":80.0,
+         "position":"Atacante",
+         "club":"(Al Nassr)",
+         "name":"Nawaf Al Abed",
+         "age":21
+      }
+   ],
+   "techCommittees":[
+      {
+         "role":"Manager",
+         "name":"Hervé Jean Marie Roger Renard",
+         "age":21
+      },
+      {
+         "role":"TechCommittee",
+         "name":"Abdulellah Al-Najei",
+         "age":21
+      },
+      {
+         "role":"TechCommittee",
+         "name":"Dabir Wasim Halabi",
+         "age":21
+      }
+   ],
+   "sportDirectors":[
+      {
+         "contact1":"(36)99363-4732",
+         "ContactEmail":"HumamNaser@gmail.com",
+         "name":"Nabeel Humam Naser",
+         "age":21
+      },
+      {
+         "contact1":"(36)84672-2372",
+         "ContactEmail":"Abdulhamid@gmail.com",
+         "name":"Salem Abdulhamid",
+         "age":21
+      }
+   ]
+}
