@@ -1,7 +1,8 @@
-package module_arabiaSaudita;
-
 import com.google.gson.Gson;
-import com.google.gson.JsonObject;
+import module_arabiaSaudita.NationalTeamStats;
+import module_arabiaSaudita.Player;
+import module_arabiaSaudita.SportDirector;
+import module_arabiaSaudita.TechCommittee;
 import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
@@ -11,7 +12,7 @@ import java.io.FileWriter;
 import java.util.ArrayList;
 import java.util.List;
 
-public class SaudiaArabiaTeam  implements NationalTeamStats{
+public class SaudiaArabiaTeam implements NationalTeamStats {
     private List<Player> players;
     private List<TechCommittee> techCommittees;
     private List<SportDirector> sportDirectors;
